@@ -13,7 +13,7 @@ San Diego State University:
 [Heap Project](https://Writchie19.github.io/Heap/)
 
 ## 2D-Turn-Based-RPG
-[2D Role Playing Game Project](https://Writchie19.github.io/2D-Turn-Based_RPG/)
+[2D Role Playing Game Project](https://writchie19.github.io/2D-Turn-Based-RPG/)
 
 
 
