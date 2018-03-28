@@ -1,7 +1,10 @@
 # William Ritchie
 San Diego State University Student
+
 In progress: Masters of Science in Computer Science 
+
 Bachelor of Science in Mechanical Engineering
+
 Minor in Computer Science
 
 
