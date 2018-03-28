@@ -7,7 +7,7 @@ San Diego State University:
 - Minor in Computer Science 
 
 ## HashTable
-[HashTable Project](https://Writchie19github.io/HashTable
+[HashTable Project](https://Writchie19.github.io/Hash-Table/)
 
 
 
