@@ -9,6 +9,9 @@ San Diego State University:
 ## HashTable
 [HashTable Project](https://Writchie19.github.io/Hash-Table/)
 
+## Heap
+[Heap Project](https://Writchie19.github.io/Heap/)
+
 
 
 
