@@ -1,3 +1,12 @@
+# William Ritchie
+San Diego State University Student
+In progress: Masters of Science in Computer Science 
+Bachelor of Science in Mechanical Engineering
+Minor in Computer Science
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Writchie19/Writchie19.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
