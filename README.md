@@ -6,14 +6,8 @@ San Diego State University:
 - Bachelor of Science in Mechanical Engineering 
 - Minor in Computer Science 
 
-## HashTable
-[HashTable Project](https://Writchie19.github.io/Hash-Table/)
-
 ## Heap
 [Heap Project](https://Writchie19.github.io/Heap/)
-
-## 2D-Turn-Based-RPG
-[2D Role Playing Game Project](https://writchie19.github.io/2D-Turn-Based-RPG/)
 
 
 
