@@ -20,3 +20,6 @@ San Diego State University:
 ### Arduino Smart Irrigation Controller
 [ArduinoSmartIrrigationController](https://writchie19.github.io/ArduinoSmartIrrigationController/)
 
+### Web Page Update Notifier
+[Web-Page-Update-Notifier](https://writchie19.github.io/Web-Page-Update-Notifier/)
+
