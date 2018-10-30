@@ -7,15 +7,16 @@ San Diego State University:
 - Bachelor of Science in Mechanical Engineering 
 - Minor in Computer Science 
 
-## HashTable
+## Projects
+### HashTable
 [Hash-Table](https://writchie19.github.io/Hash-Table/)
 
-## SDSU Student Waitlist
+### SDSU Student Waitlist
 [SDSU-Student-Waitlist](https://writchie19.github.io/SDSU-Student-Waitlist/)
 
-## Mini Turtle Language
+### Mini Turtle Language
 [Mini-Turtle-Language](https://writchie19.github.io/Mini-Turtle-Language/)
 
-## Arduino Smart Irrigation Controller
+### Arduino Smart Irrigation Controller
 [ArduinoSmartIrrigationController](https://writchie19.github.io/ArduinoSmartIrrigationController/)
 
