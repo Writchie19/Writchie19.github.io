@@ -8,8 +8,8 @@ San Diego State University:
 - Minor in Computer Science 
 
 ## Projects
-### HashTable
-[Hash-Table](https://writchie19.github.io/Hash-Table/)
+### Password Checker
+[PasswordChecker](https://writchie19.github.io/PasswordChecker/)
 
 ### SDSU Student Waitlist
 [SDSU-Student-Waitlist](https://writchie19.github.io/SDSU-Student-Waitlist/)
