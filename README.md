@@ -17,6 +17,9 @@ San Diego State University:
 ### Mini Quiz Application
 [MiniQuizApp](https://writchie19.github.io/MiniQuizApp/) 
 
+### InstaPost
+[InstaPost](https://writchie19.github.io/InstaPost/)
+
 ### Password Checker
 [PasswordChecker](https://writchie19.github.io/PasswordChecker/)
 
