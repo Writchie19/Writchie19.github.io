@@ -8,6 +8,15 @@ San Diego State University:
 - Minor in Computer Science 
 
 ## Projects
+### Hero of Mythhaven
+[Hero_of_Mythhaven](https://github.com/Writchie19/Hero_of_Mythhaven)
+
+### Yin-Yang
+[Yin-Yang](https://writchie19.github.io/Yin-Yang/)
+
+### Mini Quiz Application
+[MiniQuizApp](https://writchie19.github.io/MiniQuizApp/) 
+
 ### Password Checker
 [PasswordChecker](https://writchie19.github.io/PasswordChecker/)
 
@@ -20,6 +29,4 @@ San Diego State University:
 ### Arduino Smart Irrigation Controller
 [ArduinoSmartIrrigationController](https://writchie19.github.io/ArduinoSmartIrrigationController/)
 
-### Web Page Update Notifier
-[Web-Page-Update-Notifier](https://writchie19.github.io/Web-Page-Update-Notifier/)
 
